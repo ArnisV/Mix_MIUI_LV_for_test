@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Vai dzēst atlasītos vienumus?</item>
+        <item quantity="one">Vai dzēst atlasīto vienumu?</item>
+    </plurals>
+</resources>
