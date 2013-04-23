@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string-array name="contact_entries">
-        <item>Name</item>
-        <item>Nickname</item>
-        <item>Phone</item>
-        <item>E-mail</item>
-        <item>Organization</item>
+        <item>Vārds</item>
+        <item>Segvārds</item>
+        <item>Tālrunis</item>
+        <item>E-pasts</item>
+        <item>Organizācija</item>
         <item>IM</item>
-        <item>SIP Phone</item>
-        <item>Birthday</item>
-        <item>Website</item>
-        <item>Address</item>
-        <item>Note</item>
+        <item>SIP tālrunis</item>
+        <item>Dzimšanas diena</item>
+        <item>Web lapa</item>
+        <item>Adrese</item>
+        <item>Piezīme</item>
     </string-array>
     <string-array name="contact_values">
         <item>vnd.android.cursor.item/name</item>
@@ -20,7 +20,7 @@
         <item>vnd.android.cursor.item/email_v2</item>
         </string-array>
     <string-array name="font_size_names">
-        <item>Small</item>
-        <item>Default</item>
+        <item>Mazs</item>
+        <item>Noklusētais</item>
         </string-array>
 </resources>

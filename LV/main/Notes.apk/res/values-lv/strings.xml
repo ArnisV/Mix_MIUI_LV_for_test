@@ -15,7 +15,7 @@
     <string name="app_name">Piezīmes</string>
     <string name="app_widget">Piezīmes</string>
     <string name="attachment_camera">Kamera</string>
-    <string name="attachment_contact">Kontakts</string>
+    <string name="attachment_contact">Kontaktpersona</string>
     <string name="attachment_gallery">Galerija</string>
     <string name="button_new_note">Jauna piezīme</string>
     <string name="call_record_folder_name">Zvanu piezīmes</string>
@@ -37,7 +37,7 @@
     <string name="format_datetime_mdhm">MMMd kk:mm</string>
     <string name="format_exported_file_location">Eksportēt teksta failu (%1$s) uz SD (%2$s) direktoriju</string>
     <string name="format_folder_files_count">(%d)</string>
-    <string name="format_move_notes_to_folder">Ir pārvietotas izvēlētāš %1$d piezīmes uz %2$s mapi</string>
+    <string name="format_move_notes_to_folder">Ir pārvietotas izvēlētās %1$d piezīmes uz %2$s mapi</string>
     <string name="hint_foler_name">Ievadiet mapes nosaukumu</string>
     <string name="info_note_enter_desktop">Piezīme pievienota mājām</string>
     <string name="login_sync">Pierakstīties &amp; sinhr.</string>
@@ -81,7 +81,7 @@
     <string name="snippet_image_template">[%1$s]</string>
     <string name="success_sdcard_export">Eksportēšana veiksmīga</string>
     <string name="time_picker_dialog_title">Iestatīt atgādinājuma laiku</string>
-    <string name="toast_message_add_image_fail">Neizdevāš ievietot attēlu!</string>
-    <string name="widget_havenot_content">Nav saistītās piezīmes atrastas, noklikšķiniet, lai izveidotu saistītu piezīmi.</string>
-    <string name="widget_under_visit_mode">drošības režīms，mevar skatīt piezīmju saturu</string>
+    <string name="toast_message_add_image_fail">Neizdevās ievietot attēlu!</string>
+    <string name="widget_havenot_content">Saistītās piezīmes nav atrastas, noklikšķiniet, lai izveidotu saistītu piezīmi.</string>
+    <string name="widget_under_visit_mode">drošības režīmā nevar skatīt piezīmju saturu</string>
 </resources>
