@@ -20,22 +20,22 @@
         <item>=</item>
     </string-array>
     <string-array name="operatorDescs">
-        <item>left parenthesis</item>
-        <item>right parenthesis</item>
-        <item>factorial</item>
-        <item>natural logarithm</item>
-        <item>logarithm</item>
-        <item>square root</item>
-        <item>divided by</item>
-        <item>multiplied by</item>
+        <item>kreisā iekava</item>
+        <item>labā iekava</item>
+        <item>faktoriāls</item>
+        <item>naturālais logaritms</item>
+        <item>logaritms</item>
+        <item>kvadrātsakne</item>
+        <item>dalīts ar</item>
+        <item>reizināts ar</item>
         <item>plus</item>
-        <item>minus</item>
-        <item> point </item>
-        <item>power</item>
-        <item>tangent</item>
-        <item>sine</item>
-        <item>cosine</item>
-        <item>pi</item>
-        <item>equals</item>
+        <item>mīnus</item>
+        <item> komats </item>
+        <item>pakāpe</item>
+        <item>tangenss</item>
+        <item>sinuss</item>
+        <item>kosinuss</item>
+        <item>pī</item>
+        <item>vienāds ar</item>
     </string-array>
 </resources>
