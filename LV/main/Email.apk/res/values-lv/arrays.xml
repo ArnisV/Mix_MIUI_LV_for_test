@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Niecīga izmēra teksts</item>
@@ -8,8 +8,8 @@
         <item>Milzīga izmēra teksts</item>
     </string-array>
     <string-array name="general_preference_auto_advance_summary_array">
-        <item>"Show newer message's screen after you delete a message"</item>
-        <item>"Show older message's screen after you delete a message"</item>
-        <item>"Show message list's screen after you delete a message"</item>
+        <item>"Rādīt jsunāko ziņojumu ekrānu pēc ziņojuma dzēšanas"</item>
+        <item>"Rādīt jsunāko ziņojumu ekrānu pēc ziņojuma dzēšanas"</item>
+        <item>"Rādīt ziņojumu saraksta ekrānu pēc ziņojuma dzēšanasS"</item>
     </string-array>
 </resources>

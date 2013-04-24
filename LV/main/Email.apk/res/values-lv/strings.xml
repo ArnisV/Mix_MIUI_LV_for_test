@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="account">Konts</string>
     <string name="account_delete_dlg_instructions_fmt">Konts “%s” tiks noņemts no e-pasta.</string>
@@ -17,7 +17,7 @@
     <string name="account_security_dialog_title">Drošības atjauninājums</string>
     <string name="account_security_policy_explanation_fmt">Serveris %s pieprasa, lai jūs tam atļautu attālināti vadīt dažas jūsu Android ierīces drošības funkcijas.</string>
     <string name="account_security_title">Ierīces drošība</string>
-    <string name="account_security_waiting_policy_key_message">%s nepieciešami drošības iestatījumu informācija no servera. Lūdzu uzgaidiet...</string>
+    <string name="account_security_waiting_policy_key_message">%s nepieciešami drošības iestatījumu informācija no servera， lūdzu uzgaidiet...</string>
     <string name="account_settings_action">Konta iestatījumi</string>
     <string name="account_settings_background_attachments_label">Lejupielādēt pielikumus</string>
     <string name="account_settings_background_attachments_summary">Automātiski lejupielādēt jaunāko ziņojumu pielikumus Wi-Fi tīklā</string>
