@@ -40,4 +40,5 @@
   <string name="voice_search_hint_quotation_end">”</string>
   <string name="voice_search_hint_quotation_start">“</string>
   <string name="voice_search_hint_title">Mēģiniet teikt:</string>
+  <string name="search_activity_name">Meklēšana</string>
 </resources>
