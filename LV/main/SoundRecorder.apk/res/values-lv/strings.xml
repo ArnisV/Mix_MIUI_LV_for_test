@@ -7,7 +7,7 @@
     <string name="audio_db_playlist_name">Mani ieraksti</string>
     <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
     <string name="button_ok">Labi</string>
-    <string name="call_record">Ieraksta zvanu(%d)</string>
+    <string name="call_record">Zvanu ieraksti(%d)</string>
     <string name="call_record_or">vai</string>
     <string name="default_record_name">Ieraksts bez nosaukuma</string>
     <string name="delete">Dzēst</string>

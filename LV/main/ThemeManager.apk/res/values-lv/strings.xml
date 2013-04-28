@@ -97,7 +97,7 @@
     <string name="resource_online">Tiešsaistē %1$s</string>
     <string name="resource_preview">Priekšskatījums</string>
     <string name="resource_price_format">(%1$s)</string>
-    <string name="resource_price_free">Par velti</string>
+    <string name="resource_price_free">Bezmaksas</string>
     <string name="resource_price_unit">MI Kredīti</string>
     <string name="resource_ringtone_default">Melodijas</string>
     <string name="resource_see_more">Skatīt vairāk</string>
@@ -170,7 +170,7 @@ Lūdzu pārsāknē šo lietotni, lai atjauninātu resursus."</string>
     <string name="theme_upgrade_request_content">Lai uzlabotu lokālo tēmu efektivitāti, to formāts ir jāpārveido. Tas var prasīt kādu brīdi, kura laikā tālruņa veiktspēja var mazināties. Pārveidot tēmas tūlīt?</string>
     <string name="theme_upgrade_request_title">Tēmas ir jāatjaunina</string>
     <string name="theme_upgrade_request_yes">Jā</string>
-    <string name="third_party_pickers_activity_title">Uzstādu %1$s</string>
+    <string name="third_party_pickers_activity_title">%1$s uzstādīšana</string>
     <string name="title_component">Jaukta</string>
     <string name="title_local">Lokāli</string>
     <string name="title_online">Tiešsaistē</string>
