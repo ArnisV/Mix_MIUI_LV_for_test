@@ -405,7 +405,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
     <string name="bluetooth_sap_remember_choice">"Vairs nejautāt"</string>
     <string name="bluetooth_sap_request">SAP pieprasījums</string>
     <string name="bluetooth_scan_for_devices">Skenēt ierīces</string>
-    <string name="bluetooth_search_for_devices">Meklēt ierīces</string>
+    <string name="bluetooth_search_for_devices">Meklē ierīces</string>
     <string name="bluetooth_searching_for_devices">Notiek meklēšana...</string>
     <string name="bluetooth_settings">Bluetooth</string>
     <string name="bluetooth_settings_summary">Savienojumu pārvaldība, ierīces nosaukuma un atklājamības iestatīšana</string>
