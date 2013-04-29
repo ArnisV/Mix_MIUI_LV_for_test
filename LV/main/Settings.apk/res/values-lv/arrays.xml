@@ -248,78 +248,78 @@
         <item>Monkey</item>
     </string-array>
     <string-array name="multi_sim_entries">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
+        <item>Abonēšana 1</item>
+        <item>Abonēšana 2</item>
     </string-array>
     <string-array name="multi_sim_summaries">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
+        <item>Abonēšana 1</item>
+        <item>Abonēšana 2</item>
     </string-array>
     <string-array name="multi_sim_entries_voice">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
+        <item>Abonēšana 1</item>
+        <item>Abonēšana 2</item>
         <item>Prompt</item>
     </string-array>
     <string-array name="multi_sim_summaries_voice">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
+        <item>Abonēšana 1</item>
+        <item>Abonēšana 2</item>
         <item>Prompt User</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
-        <item>Weak</item>
-        <item>Medium</item>
-        <item>Strong</item>
+        <item>Vājš</item>
+        <item>Vidējs</item>
+        <item>Stiprs</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
-        <item>Graphical</item>
-        <item>Percentage</item>
-        <item>Top-Bar</item>
+        <item>Grafisks</item>
+        <item>Procenti</item>
+        <item>Līnija</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Ask on connection</item>
-        <item>Charge only</item>
-        <item>Mount SD card</item>
+        <item>Tikai uzlāde</item>
+        <item>Pievienot SD karti</item>
     </string-array>
     <string-array name="led_freq_entries">
-        <item>2 seconds</item>
-        <item>3 seconds</item>
-        <item>4 seconds</item>
-        <item>5 seconds</item>
-        <item>6 seconds</item>
-        <item>7 seconds</item>
-        <item>8 seconds</item>
-        <item>9 seconds</item>
+        <item>2 sekundes</item>
+        <item>3 sekundes</item>
+        <item>4 sekundes</item>
+        <item>5 sekundes</item>
+        <item>6 sekundes</item>
+        <item>7 sekundes</item>
+        <item>8 sekundes</item>
+        <item>9 sekundes</item>
     </string-array>
     <string-array name="mi1_led_color_entries">
-        <item>Blue</item>
-        <item>Red</item>
-        <item>Green</item>
-        <item>Pink</item>
-        <item>Violet</item>
-        <item>Purple</item>
+        <item>Zila</item>
+        <item>Sarkana</item>
+        <item>Zaļā</item>
+        <item>Rozā</item>
+        <item>Violeta</item>
+        <item>Lillā</item>
     </string-array>
     <string-array name="led_color_entries">
-        <item>Blue</item>
-        <item>Red</item>
-        <item>Yellow</item>
-        <item>Green</item>
-        <item>Cyan</item>
-        <item>White</item>
-        <item>Violet</item>
+        <item>Zila</item>
+        <item>Sarkana</item>
+        <item>Dzeltena</item>
+        <item>Zaļa</item>
+        <item>Ciāna</item>
+        <item>Balta</item>
+        <item>Violeta</item>
     </string-array>
     <string-array name="back_long_press_timeout">
-        <item>0.5 second</item>
-        <item>1 second</item>
-        <item>1.5 seconds</item>
-        <item>2 seconds</item>
+        <item>0.5 sekunde</item>
+        <item>1 sekunde</item>
+        <item>1.5 sekundes</item>
+        <item>2 sekundes</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 second</item>
-        <item>2 seconds</item>
-        <item>5 seconds</item>
-        <item>10 seconds</item>
-        <item>20 seconds</item>
-        <item>Always</item>
+        <item>2 sekundes</item>
+        <item>5 sekundes</item>
+        <item>10 sekundes</item>
+        <item>20 sekundes</item>
+        <item>Vienmēr</item>
     </string-array>
   <string-array name="wfd_status">
         <item>Устройство подключено, создание сессии...</item>
@@ -375,21 +375,21 @@ Computer will auto open and read phone data"</item>
         <item></item>
     </string-array>
     <string-array name="screen_color_title">
-        <item>Warm</item>
-        <item>Nature</item>
-        <item>Cool</item>
+        <item>Silts</item>
+        <item>Naturāls</item>
+        <item>Vēss</item>
     </string-array>
     <string-array name="screen_saturation_title">
-        <item>Brilliant</item>
-        <item>Standard</item>
+        <item>Spīdošs</item>
+        <item>Standarta</item>
     </string-array>
     <string-array name="perm_hips_action">
-        <item>Allow</item>
-        <item>Ask</item>
-        <item>Deny</item>
+        <item>Atļaut</item>
+        <item>Jautāt</item>
+        <item>Liegt</item>
     </string-array>
     <string-array name="startup_hips_action">
-        <item>Allow</item>
-        <item>Deny</item>
+        <item>Atļaut</item>
+        <item>Liegt</item>
     </string-array>
 </resources>
